@@ -9,16 +9,16 @@
     "graph"
   ],
   "author": {
-    "name": "Cristiano Oliveira",
-    "email": "ocean.cris@gmail.com>"
+    "name": "roylin",
+    "email": "roylin@ryzo.io"
   },
   "main": "index",
   "dependencies": {
-    "qs": "^6.5.0",
-    "request": "^2.79.0"
+    "got": "^11.8.6",
+    "qs": "^6.5.0"
   },
   "devDependencies": {
-    "vows": "^0.7.0"
+    "vows": "^0.8.3"
   },
   "repository": {
     "type": "git",
